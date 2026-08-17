@@ -39,6 +39,7 @@ ipch
 
 # Logging
 *.tlog
+*.recipe
 
 # CMake Artifacts
 CMakeLists.txt.user
