@@ -13,6 +13,7 @@ imgui*.ini
 *.a
 *.obj
 *.exe
+*.lib
 examples/*/Debug/*
 examples/*/Release/*
 examples/*/x64/*
@@ -34,6 +35,10 @@ ipch
 *.vcxproj.user
 *.vcxproj.filters
 *.sln*
+*.lastbuildstate
+
+# Logging
+*.tlog
 
 # CMake Artifacts
 CMakeLists.txt.user
